@@ -33,23 +33,29 @@
 
         <!-- Desktop CTA Button -->
         <div class="hidden md:flex items-center">
-          <button
+          <a
+            href="https://book.stripe.com/6oU5kE8Fn6NnbtrfJoasg0c"
+            target="_blank"
+            rel="noopener noreferrer"
             class="group bg-primary-400 hover:bg-primary-500 active:bg-primary-600 text-white font-semibold px-7 py-3 rounded-xl transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 hover:-translate-y-0.5 active:scale-100"
             aria-label="Submit your LinkedIn ad for review"
           >
             Get Roasted
             <span class="inline-block ml-1 transition-transform group-hover:translate-x-0.5">→</span>
-          </button>
+          </a>
         </div>
 
         <!-- Mobile: CTA + Menu Button -->
         <div class="flex md:hidden items-center gap-2">
-          <button
+          <a
+            href="https://book.stripe.com/6oU5kE8Fn6NnbtrfJoasg0c"
+            target="_blank"
+            rel="noopener noreferrer"
             class="bg-primary-400 hover:bg-primary-500 active:bg-primary-600 text-white font-semibold px-4 py-2 rounded-lg transition-colors text-sm"
             aria-label="Submit your LinkedIn ad for review"
           >
             Book my Audit
-          </button>
+          </a>
 
           <!-- Hamburger Menu Button -->
           <button

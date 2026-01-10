@@ -12,9 +12,9 @@
           <span class="text-sm font-bold text-gray-500 uppercase tracking-wider">One-Time Payment</span>
           <span class="text-3xl font-heading font-black text-gray-900">$795</span>
         </div>
-        <button class="flex-1 bg-primary-500 hover:bg-primary-400 active:bg-primary-600 text-white font-bold py-4 rounded-lg text-sm shadow-lg shadow-primary-500/30 transition-colors">
+        <a href="https://book.stripe.com/6oU5kE8Fn6NnbtrfJoasg0c" target="_blank" rel="noopener noreferrer" class="flex-1 bg-primary-500 hover:bg-primary-400 active:bg-primary-600 text-white font-bold py-4 rounded-lg text-sm shadow-lg shadow-primary-500/30 transition-colors text-center">
           Book Audit Now
-        </button>
+        </a>
       </div>
     </div>
 
@@ -39,9 +39,9 @@
             </p>
 
             <div class="flex flex-col gap-5 lg:justify-start">
-              <button class="w-full sm:w-auto bg-primary-500 hover:bg-primary-400 active:bg-primary-600 text-white font-bold px-8 py-5 rounded-xl text-lg transition-all shadow-[0_0_20px_rgba(56,189,248,0.3)] hover:shadow-[0_0_30px_rgba(56,189,248,0.5)] hover:-translate-y-1">
+              <a href="https://book.stripe.com/6oU5kE8Fn6NnbtrfJoasg0c" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto bg-primary-500 hover:bg-primary-400 active:bg-primary-600 text-white font-bold px-8 py-5 rounded-xl text-lg transition-all shadow-[0_0_20px_rgba(56,189,248,0.3)] hover:shadow-[0_0_30px_rgba(56,189,248,0.5)] hover:-translate-y-1 text-center">
                 Book My Deep-Dive Audit - $795
-              </button>
+              </a>
               <div class="flex justify-center flex-row gap-2 text-white text-sm">
                 <div class="flex items-center gap-2 justify-center lg:justify-start">
                   <svg class="w-5 h-5 text-primary-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -412,9 +412,9 @@
             <div class="text-6xl font-heading font-black text-gray-900 mb-2">$795</div>
             <p class=" text-xs mb-8">USD / One Account</p>
             
-            <button class="w-full bg-primary-500 hover:bg-primary-600 active:bg-primary-700 text-white font-bold py-4 px-8 rounded-xl text-lg sm:text-xl shadow-xl transition-transform hover:scale-105 active:scale-100 mb-4">
+            <a href="https://book.stripe.com/6oU5kE8Fn6NnbtrfJoasg0c" target="_blank" rel="noopener noreferrer" class="w-full bg-primary-500 hover:bg-primary-600 active:bg-primary-700 text-white font-bold py-4 px-8 rounded-xl text-lg sm:text-xl shadow-xl transition-transform hover:scale-105 active:scale-100 mb-4 text-center block">
               Book My Audit
-            </button>
+            </a>
             <p class="text-xs text-gray-900">Secure payment via Stripe</p>
           </div>
 
