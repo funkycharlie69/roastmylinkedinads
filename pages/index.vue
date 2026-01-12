@@ -174,7 +174,7 @@
       <UiContainer>
         <div class="max-w-5xl mx-auto">
            <h2 class="text-3xl md:text-5xl font-heading font-bold text-center mb-8">
-             Why you need my "Roast", not an Agency's audit.
+             Why you need my "Roast", not an Agency.
            </h2>
            
            <!-- Mobile: Stacked Cards -->
