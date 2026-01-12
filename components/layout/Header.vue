@@ -8,9 +8,8 @@
           class="flex items-center space-x-2 text-lg sm:text-xl md:text-2xl font-heading font-bold text-gray-900 tracking-tight"
           aria-label="Roast My LinkedIn Ads - Home"
         >
-          <img src="/logo.png" alt="Roast My LinkedIn Ads Logo" class="h-10 w-10 mx-5"/>
-          <span class="hidden sm:inline line-height-1">Roast My LinkedIn Ads</span>
-          <span class="sm:hidden text-balance text-xl">Roast My LinkedIn Ads</span>
+          <img src="/logo.png" alt="Roast My LinkedIn Ads Logo" class="h-10 w-10 mx-1"/>
+          <span class="line-height-1 text-balance">Roast My LinkedIn Ads</span>
         </NuxtLink>
 
         <!-- Desktop Navigation -->
