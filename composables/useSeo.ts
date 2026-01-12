@@ -16,7 +16,7 @@ export const useSeo = (options: {
   const route = useRoute()
 
   const canonicalUrl = options.url || `${config.public.siteUrl}${route.path}`
-  const ogImage = options.image || `${config.public.siteUrl}/og-default.jpg`
+  const ogImage = options.image || `${config.public.siteUrl}/og-default.png`
   const imageAlt = options.imageAlt || `${options.title} - Roast My LinkedIn Ads`
 
   useHead({
