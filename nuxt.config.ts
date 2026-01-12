@@ -28,12 +28,23 @@ export default defineNuxtConfig({
 
         // Open Graph for social sharing
         { property: 'og:type', content: 'website' },
+        { property: 'og:title', content: 'Roast My LinkedIn Ads - Honest LinkedIn Ad Reviews' },
+        { property: 'og:description', content: 'Get brutally honest feedback on your LinkedIn ads. Improve your ad performance with expert reviews and actionable insights.' },
         { property: 'og:site_name', content: 'Roast My LinkedIn Ads' },
+        { property: 'og:url', content: 'https://roastmylinkedinads.com' },
+        { property: 'og:image', content: 'https://roastmylinkedinads.com/og-default.jpg' },
+        { property: 'og:image:width', content: '1200' },
+        { property: 'og:image:height', content: '630' },
+        { property: 'og:image:type', content: 'image/jpeg' },
+        { property: 'og:image:alt', content: 'Roast My LinkedIn Ads - Get honest feedback on your LinkedIn advertising' },
         { property: 'og:locale', content: 'en_US' },
 
         // Twitter Card
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:site', content: '@yourtwitterhandle' },
+        { name: 'twitter:title', content: 'Roast My LinkedIn Ads - Honest LinkedIn Ad Reviews' },
+        { name: 'twitter:description', content: 'Get brutally honest feedback on your LinkedIn ads. Improve your ad performance with expert reviews and actionable insights.' },
+        { name: 'twitter:image', content: 'https://roastmylinkedinads.com/og-default.jpg' },
+        { name: 'twitter:image:alt', content: 'Roast My LinkedIn Ads - Get honest feedback on your LinkedIn advertising' },
 
         // Robots
         { name: 'robots', content: 'index, follow' },
