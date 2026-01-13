@@ -13,7 +13,7 @@
           <span class="text-3xl font-heading font-black text-gray-900">$795</span>
         </div>
         <a href="https://book.stripe.com/6oU5kE8Fn6NnbtrfJoasg0c" target="_blank" rel="noopener noreferrer" class="flex-1 bg-primary-500 hover:bg-primary-400 active:bg-primary-600 text-white font-bold py-4 rounded-lg text-sm shadow-lg shadow-primary-500/30 transition-colors text-center">
-          Book Audit Now
+          Book Deep-Dive Audit →
         </a>
       </div>
     </div>
@@ -24,63 +24,42 @@
       <div class="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(56,189,248,0.15),transparent_50%)]"></div>
       
       <UiContainer class="relative z-10">
-        <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
-          <!-- Copy Side -->
-          <div class="lg:col-span-7 text-center lg:text-left">
-                      
+        <div class="max-w-4xl mx-auto">
+          <div class="text-center">
+
             <h1 class="text-6xl sm:text-4xl md:text-6xl lg:text-[70px] text-balance font-heading font-bold mb-8 leading-[1.05] tracking-tight">
               Get The <span class="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-primary-200">Brutal Truth</span> About Your LinkedIn Ads.
             </h1>
-            
-            <p class="text-lg sm:text-xl text-white mb-10 leading-relaxed max-w-2xl mx-auto lg:mx-0">
+
+            <p class="text-lg sm:text-xl text-white mb-10 leading-relaxed max-w-2xl mx-auto">
               <span class="text-primary-200 font-bold">Get a deep-dive audit</span> from the founder of the LinkedIn Ads tool used by the world's top LinkedIn Ads pros to optimize $90M+ in annual spend.
               <br><br>
               Like agencies and contractors, I've seen more ad accounts than I can count, but unlike them, <span class="underline">I don't want your monthly retainer</span>. I'm here to give you <span class="text-primary-200 font-bold">the most objective, technical breakdown</span> of exactly where you're burning cash, and how to fix it.
             </p>
 
-            <div class="flex flex-col gap-5 lg:justify-start">
+            <div class="flex flex-col gap-5 items-center">
               <a href="https://book.stripe.com/6oU5kE8Fn6NnbtrfJoasg0c" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto bg-primary-500 hover:bg-primary-400 active:bg-primary-600 text-white font-bold px-8 py-5 rounded-xl text-lg transition-all shadow-[0_0_20px_rgba(56,189,248,0.3)] hover:shadow-[0_0_30px_rgba(56,189,248,0.5)] hover:-translate-y-1 text-center">
                 Book My Deep-Dive Audit - $795
               </a>
               <div class="flex justify-center flex-row gap-2 text-white text-sm">
-                <div class="flex items-center gap-2 justify-center lg:justify-start">
+                <div class="flex items-center gap-2 justify-center">
                   <svg class="w-5 h-5 text-primary-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
                   <span>48-Hour Turnaround</span>
                 </div>
-                <div class="flex items-center gap-2 justify-center lg:justify-start">
+                <div class="flex items-center gap-2 justify-center">
                   <svg class="w-5 h-5 text-primary-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
                   <span>Video + Actionnable Report</span>
                 </div>
-                <div class="flex items-center gap-2 justify-center lg:justify-start">
+                <div class="flex items-center gap-2 justify-center">
                   <svg class="w-5 h-5 text-primary-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                   </svg>
                   <span>100% Money-Back Guarantee</span>
                 </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Spacer Column -->
-          <div class="lg:col-span-1"></div>
-
-          <!-- Video Side -->
-          <div class="lg:col-span-4 relative lg:ml-5 mt-8 lg:mt-0">
-            <div class="relative rounded-2xl overflow-hidden border border-gray-700 shadow-2xl bg-dark-800 aspect-video lg:aspect-[4/5] mx-auto max-w-sm lg:max-w-none group cursor-pointer hover:border-primary-500/50 transition-colors">
-              <!-- Placeholder for video thumbnail -->
-              <div class="absolute inset-0 bg-gray-800 flex items-center justify-center">
-                 <img src="/Profile-Pic.jpg" alt="Charles Murillon" class="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:opacity-80 transition-opacity duration-500" />
-                 <div class="relative z-10 w-20 h-20 bg-primary-500/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                    <svg class="w-8 h-8 text-white fill-current ml-1" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                 </div>
-              </div>
-              <div class="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-dark-900 to-transparent">
-                <p class="text-primary-500 font-heading font-bold text-lg">Why agencies hate this audit.</p>
-                <!-- <p class="text-primary-400 text-sm font-medium">0:45 • Watch the intro</p> -->
               </div>
             </div>
           </div>
@@ -144,9 +123,12 @@
     <section class="py-24 bg-white">
       <UiContainer>
         <div class="max-w-3xl mx-auto">
-          <div class="flex items-start gap-3 sm:gap-6 mb-8">
-            <span class="text-4xl sm:text-6xl text-primary-200 font-heading font-black">"</span>
-            <h2 class="text-3xl md:text-4xl font-heading font-bold text-gray-900 pt-4">
+          <div class="flex flex-col sm:flex-row items-center sm:items-start gap-3 sm:gap-6 mb-8">
+            <div class="relative">
+              <img src="/Profile-Pic.jpg" alt="Charles Murillon" class="w-40 rounded-full object-cover" />
+              <span class="absolute -top-10 left-20 inset-0 flex items-center justify-center text-8xl text-primary-400 font-heading font-black">"</span>
+            </div>
+            <h2 class="text-center sm:text-left text-3xl md:text-4xl font-heading font-bold text-gray-900 pt-4">
               I stopped managing ads and I can finally tell the truth.
             </h2>
           </div>

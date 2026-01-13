@@ -39,7 +39,7 @@
             class="group bg-primary-400 hover:bg-primary-500 active:bg-primary-600 text-white font-semibold px-7 py-3 rounded-xl transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 hover:-translate-y-0.5 active:scale-100"
             aria-label="Submit your LinkedIn ad for review"
           >
-            Get Roasted
+            Get Roasted →
             <span class="inline-block ml-1 transition-transform group-hover:translate-x-0.5">→</span>
           </a>
         </div>
@@ -53,7 +53,7 @@
             class="bg-primary-400 hover:bg-primary-500 active:bg-primary-600 text-white font-semibold px-4 py-2 rounded-lg transition-colors text-sm"
             aria-label="Submit your LinkedIn ad for review"
           >
-            Book my Audit
+            Get Roasted →
           </a>
 
           <!-- Hamburger Menu Button -->
