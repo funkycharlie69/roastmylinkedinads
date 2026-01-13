@@ -123,28 +123,33 @@
     <section class="py-24 bg-white">
       <UiContainer>
         <div class="max-w-3xl mx-auto">
-          <div class="flex flex-col sm:flex-row items-center sm:items-start gap-3 sm:gap-6 mb-8">
-            <div class="relative">
-              <img src="/Profile-Pic.jpg" alt="Charles Murillon" class="w-40 rounded-full object-cover" />
-              <span class="absolute -top-10 left-20 inset-0 flex items-center justify-center text-8xl text-primary-400 font-heading font-black">"</span>
+          <div class="flex flex-col items-center gap-3 sm:gap-6 mb-8">
+            <div class="flex flex-col items-center gap-2">
+              <div class="relative">
+                <img src="/Profile-Pic.jpg" alt="Charles Murillon - LinkedIn Ads Specialist" class="w-40 rounded-full object-cover" />
+                <span class="absolute -top-20 left-20 inset-0 flex items-center justify-center text-8xl text-primary-400 font-heading font-black">"</span>
+              </div>
+              <a href="https://www.linkedin.com/in/charlesmurillon/" target="_blank" rel="noopener noreferrer" class="text-sm text-primary-400 hover:text-primary-500 transition-colors text-center underline">
+                Charles Murillon ・ LinkedIn Ads Specialist
+              </a>
             </div>
-            <h2 class="text-center sm:text-left text-3xl md:text-4xl font-heading font-bold text-gray-900 pt-4">
+            <h2 class="text-center text-3xl md:text-4xl font-heading font-bold text-gray-900 pt-4">
               I stopped managing ads and I can finally tell the truth.
             </h2>
           </div>
           <div class="prose prose-lg text-gray-600 leading-relaxed pl-0 md:pl-16">
             <p>
-              <strong>For years, I managed millions in LinkedIn ad spend</strong>. I saw agencies charge $10,000/month just to "maintain" accounts that needed a few hours of work per month. I saw consultants recommend "scaling" just to increase their % of ad spend fees.
+              <strong>For years, I managed millions in LinkedIn ad spend</strong>. I saw agencies charge $10,000/month just to "maintain" accounts that needed a few hours of work per month. I saw consultants recommend "scaling" just to increase their % of ad spend fees. <br><span class="text-gray-400 text-sm">(Don't get me wrong, there are good ones out there)</span>
             </p>
             <p>
-              <strong>Since then, I pivoted</strong>. I built <a href="https://capac.pro" target="_blank">CAPAC.pro</a>, a software tool now used by the world's most renouned linkedin ads experts.
+              <strong>Since then, I pivoted</strong>. I built <a href="https://capac.pro" target="_blank">CAPAC.pro</a>, a software tool now used by the world's most renowned linkedin ads experts.
             </p>
             <p class=" text-gray-600">
-              Because I make my living from software, I don't need your monthly retainer to manage your account.
+              Because I make my living from software, <span class="italic">I don't need your monthly retainer to manage your account.</span>
               This puts me in a unique position: <strong>I can audit your account with the most objective perspective out there.</strong>
             </p>
             <p class="text-sm text-gray-400 italic mt-6 border-l-2 border-gray-300 pl-4">
-              <strong class="text-gray-500">Transparency:</strong> I do have an interest in you using CAPAC, but it only concerns manual bidding and is 99€/mo, vs the thousands an agency is interested in.
+              <strong class="text-gray-500">Transparency:</strong> I do have an interest in you using CAPAC.pro, but it only concerns manual bidding and is 99€/mo, vs the thousands an agency is interested in.
             </p>
           </div>
         </div>
